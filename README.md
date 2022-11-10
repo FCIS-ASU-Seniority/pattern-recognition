@@ -4,7 +4,7 @@ A place where effort done by our Team on The Concepts, Tasks, and Projects on Th
 # Task 1
 N/A
 
-# Task 2
+# Task 2: Bone Mineral Density Prediction
 ### Concepts: Multi-variate & Polynomial Linear Regression - Feature Scaling - Feature Selection - Model Assesment 
 ### Problem Definition: Use multiple linear regression or polynomial regression to reduce the mean square error acquired on the dataset provided
 ### Accuracy we achieved:
